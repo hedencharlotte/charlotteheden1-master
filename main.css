@@ -19,13 +19,18 @@ h1 {
   font-size: 40px;
   letter-spacing: 2px;
   margin-bottom: 0px;
-  color: #FF5757;
+  color: black;
   }
 
-.inputSection {
-  margin: 50px 0px 80px 0px;
-  width: 400px;
-  }
+  button {
+    font-size: 20px;
+    color: black;
+    }
+
+  .inputSection {
+    margin: 50px 0px 80px 0px;
+    width: 400px;
+    }
 
   .inputs {
 width: inherit;
