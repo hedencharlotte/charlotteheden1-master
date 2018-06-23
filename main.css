@@ -8,8 +8,6 @@ background-color: #FFFFFF;
   font-family: 'Futura', 'Helvetica';
 }
 
-p.ex1 {outline: dotted red;}
-
 img {
   display: block;
   margin: 0 auto;
